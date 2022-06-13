@@ -13,3 +13,4 @@
 ## Languages and Tools i know and/or currently study
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="r" height="40" style="vertical-align:top; margin:4px">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <img src='https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Icon-Obsolete2020Black.png' alt='PowerBI' height='40'> 
+<img src='https://w7.pngwing.com/pngs/79/202/png-transparent-computer-icons-computer-terminal-cmd-exe-command-terminal-miscellaneous-angle-rectangle-thumbnail.png)' alt='Shell' height='40'> 
