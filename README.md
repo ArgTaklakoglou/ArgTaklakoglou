@@ -12,5 +12,4 @@
 
 ## Languages and Tools i know and/or currently study
 
-<img src='https://github.com/ArgTaklakoglou/test/blob/main/icons8-python-48.png' alt='python' height='40'>
-
+<img src='https://github.com/ArgTaklakoglou/test/blob/main/icons8-python-48.png' alt='python' height='40'>  <img src='https://github.com/ArgTaklakoglou/test/blob/main/icons8-r-64.png' alt='r' height='40'>  <img src='https://github.com/ArgTaklakoglou/test/blob/main/icons8-mysql-logo-480.png' alt='Redis' height='40'>
